@@ -52,4 +52,4 @@ async function buildCreation(startX, startY, startZ){
 
 Creation Specification: { PUT CREATION DESCRIPTION HERE }
 
-Please describe you influences in a paragraph, then describe in a paragraph how the creation is supposed to look, and then finally, you must implement buildCreation.
+Please describe your influences in a paragraph, then describe in a paragraph how the creation is supposed to look, and then finally, you must implement buildCreation.
